@@ -1,9 +1,9 @@
 import param from 'jquery-param';
 
 export default (platformFetch) => {
-  const query = 'burger';
-  const latitude = '37.773972';
-  const longitude = '-122.431297';
+  const query = 'whole foods';
+  const latitude = '37.386051';
+  const longitude = '-122.083855';
 
   const params = param({
     v: '20161016',

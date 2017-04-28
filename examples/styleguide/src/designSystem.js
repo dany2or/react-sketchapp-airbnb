@@ -2,7 +2,8 @@ import processColor from './processColor';
 import type { Color } from './processColor';
 
 export const colors = {
-  Haus: '#F3F4F4',
+  Blue: '#2ccce4',
+  //Haus: '#F3F4F4',
   Night: '#333',
   Sur: '#96DBE4',
   'Sur a11y': '#24828F',

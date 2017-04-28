@@ -3,13 +3,15 @@ import PropTypes from 'prop-types';
 import Map from 'react-primitives-google-static-map';
 import { StyleSheet, Text, View } from 'react-primitives';
 
+const myColor = `#697689`;
+
 const styles = StyleSheet.create({
   container: {
     width: 375,
     height: 667,
     backgroundColor: '#fefefe',
     borderWidth: 2,
-    borderColor: '#dfba69',
+    borderColor: myColor,
     borderRadius: 4,
     overflowY: 'scroll',
   },
@@ -17,24 +19,24 @@ const styles = StyleSheet.create({
     fontFamily: 'Helvetica',
     fontSize: 24,
     lineHeight: 24,
-    color: '#dfba69',
+    color: myColor,
     textAlign: 'center',
   },
   rowWrapper: {
     padding: 16,
     backgroundColor: '#FFF',
     borderBottomWidth: 2,
-    borderBottomColor: '#dfba69',
+    borderBottomColor: myColor,
   },
   rowTitle: {
-    color: '#dfba69',
+    color: myColor,
     fontSize: 18,
     // lineHeight: 27,
     fontWeight: 'bold',
     fontFamily: 'GT America',
   },
   rowSubtitle: {
-    color: '#dfba69',
+    color: myColor,
     fontSize: 14,
     // lineHeight: 18,
     fontFamily: 'GT America',

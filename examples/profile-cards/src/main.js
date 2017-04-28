@@ -27,20 +27,20 @@ const Page = ({ users }: { users: Array<User> }) => (
 export default (context) => {
   const DATA = [
     {
-      screen_name: 'mxstbr',
-      name: 'Max Stoiber',
-      description: '⚛️ Makes styled-components, react-boilerplate, @KeystoneJS and CarteBlanche. ✌ Open source developer @thethinkmill. ☕ Speciality coffee geek, skier, traveller.',
-      location: 'Vienna, Austria',
-      url: 'mxstbr.com',
-      profile_image_url: 'https://pbs.twimg.com/profile_images/763033229993574400/6frGyDyA_400x400.jpg',
+      screen_name: 'nazmulidris',
+      name: 'Nazmul Idris',
+      description: 'Developer | Designer | Communicator | Leader | Entrepreneur',
+      location: 'Mountain View, CA',
+      url: 'nazmulidris.com',
+      profile_image_url: 'https://i2.wp.com/developerlifecom.files.wordpress.com/2017/04/nazmul.png?ssl=1&w=450',
     },
     {
-      name: '- ̗̀Jackie ̖́-',
-      screen_name: 'jackiesaik',
-      description: 'Graphic designer, never won a spelling be. Toronto on weekdays. Go Home Lake on weekends. ╮ (. ● ᴗ ●.) ╭',
-      location: 'Toronto, ON',
-      url: 'cargocollective.com/jackiesaik',
-      profile_image_url: 'https://pbs.twimg.com/profile_images/756488692135526400/JUCawBiW_400x400.jpg',
+      name: 'maret',
+      screen_name: 'Maret Eiland',
+      description: 'Full Stack Product Designer | Coding ninja',
+      location: 'Mountain View, CA',
+      url: 'r3bl.com',
+      profile_image_url: 'https://lh5.googleusercontent.com/R_tQfrMcNL-ofrq_T-1U-XnCdcg-fP05G-YMOfv61DegG-_74pol_6SNUhKwlRbx4fztabL7=w271',
     },
     {
       screen_name: 'jongold',
