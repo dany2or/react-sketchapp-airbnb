@@ -36,7 +36,7 @@ export default (context) => {
     },
     {
       name: 'maret',
-      screen_name: 'Maret Eiland',
+      screen_name: 'mareteiland',
       description: 'Full Stack Product Designer | Coding ninja',
       location: 'Mountain View, CA',
       url: 'r3bl.com',
