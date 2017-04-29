@@ -27,16 +27,16 @@ const Page = ({ users }: { users: Array<User> }) => (
 export default (context) => {
   const DATA = [
     {
-      screen_name: 'nazmulidris',
       name: 'Nazmul Idris',
+      screen_name: 'nazmul',
       description: 'Developer | Designer | Communicator | Leader | Entrepreneur',
       location: 'Mountain View, CA',
       url: 'nazmulidris.com',
       profile_image_url: 'https://i2.wp.com/developerlifecom.files.wordpress.com/2017/04/nazmul.png?ssl=1&w=450',
     },
     {
-      name: 'maret',
-      screen_name: 'mareteiland',
+      name: 'Maret Eiland',
+      screen_name: 'maret',
       description: 'Full Stack Product Designer | Coding ninja',
       location: 'Mountain View, CA',
       url: 'r3bl.com',
